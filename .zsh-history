@@ -1,0 +1,297 @@
+: 1415443661:0;cd .zsh.d
+: 1415443665:0;git status
+: 1415443675:0;cat zshrc
+: 1415443682:0;ls
+: 1415443690:0;git add .
+: 1415443701:0;git status
+: 1415443710:0;git add .zsh-history
+: 1415443732:0;git rm .zsh-history
+: 1415443778:0;cd ..
+: 1415443787:0;ls
+: 1415443793:0;cat .zshrc
+: 1415443886:0;ls
+: 1415443890:0;cat .zshrc
+: 1415443900:0;cd .zsh.d
+: 1415443901:0;ls
+: 1415443905:0;git status
+: 1415443914:0;git add .zsh-history
+: 1415443924:0;git commit --amend
+: 1415443938:0;git status
+: 1415443950:0;gti add .
+: 1415443955:0;git add .
+: 1415443963:0;git commit .
+: 1415443973:0;git status
+: 1415443985:0;cd ../
+: 1415443987:0;ls
+: 1415443993:0;rm .zsh-history
+: 1415443994:0;ls
+: 1415444017:0;cd github
+: 1415444022:0;cat .git
+: 1415444026:0;ls
+: 1415444029:0;cd dotfiles
+: 1415444031:0;ls
+: 1415444037:0;cd .git
+: 1415444038:0;ls
+: 1415444068:0;cd ../
+: 1415444068:0;ls
+: 1415444071:0;../ ls
+: 1415444074:0;cd ..
+: 1415444076:0;ls
+: 1415444079:0;cd ..
+: 1415444080:0;ls
+: 1415444082:0;cd .zsh.d
+: 1415444083:0;ls
+: 1415444127:0;gvim .gitignore
+: 1415444164:0;fg
+: 1415444176:0;ls
+: 1415444178:0;cd .zsh.d
+: 1415444178:0;ls
+: 1415444197:0;hidemaru .gitignore
+: 1415444224:0;cd .zsh.d
+: 1415444225:0;ls
+: 1415444267:0;git rm .gitignore.swp
+: 1415444273:0;git status
+: 1415444289:0;git add .
+: 1415444296:0;git commit -m ""
+: 1415444300:0;git status
+: 1415444319:0;ls
+: 1415444323:0;cd .zsh.d
+: 1415444324:0;ls
+: 1415444351:0;git status
+: 1415444360:0;git add .
+: 1415444397:0;git status
+: 1415444404:0;cat .zsh-history
+: 1415444424:0;ls ..
+: 1415444464:0;git config
+: 1415444487:0;git config -l
+: 1415444535:0;cd github/dotfiles
+: 1415444542:0;git config -l
+: 1415444592:0;git remote add origin
+: 1415444593:0;user.name=Renma Yamazaki
+: 1415444593:0;user.email=renma.da@gmail.com
+: 1415444593:0;color.ui=true
+: 1415444594:0;github.user=slont
+: 1415444594:0;core.repositoryformatversion=0
+: 1415444594:0;core.filemode=true
+: 1415444595:0;core.bare=false
+: 1415444595:0;core.logallrefupdates=true
+: 1415444595:0;core.ignorecase=true
+: 1415444609:0;git config -l
+: 1415444695:0;git remote add origin git:github.com/slont/dotfiles.git
+: 1415444699:0;git config -l
+: 1415444729:0;git push origin master
+: 1415444801:0;cd ..
+: 1415444802:0;ls
+: 1415444806:0;git init
+: 1415444841:0;git remote add origin git:github.com/slont/dotfiles.git
+: 1415444855:0;git config -l
+: 1415444867:0;git status
+: 1415444886:0;git add .zsh.d/
+: 1415444894:0;git commit . -m ""
+: 1415444898:0;git log
+: 1415444905:0;git status
+: 1415444929:0;git push
+: 1415444969:0;git push origin
+: 1415445111:0;git push origin master
+: 1415445144:0;git remote add origin git@github.com:slont/dotfiles.git
+: 1415445154:0;git config -l
+: 1415445207:0;git config add
+: 1415445210:0;git config -l
+: 1415445240:0;git config add remote.origin.url git@github.com:slont/dotfiles.git
+: 1415445258:0;git config edit remote.origin.url git@github.com:slont/dotfiles.git
+: 1415445280:0;git config --global remote.origin.url git@github.com:slont/dotfiles.git
+: 1415445284:0;git config -l
+: 1415445355:0;ls
+: 1415445369:0;cat .git/config
+: 1415445378:0;git config -l
+: 1415445386:0;cat .gitconfig
+: 1415445400:0;hidemaru .gitconfig
+: 1415445415:0;git config -l
+: 1415445422:0;hidemaru .git/config
+: 1415445437:0;git config -l
+: 1415445443:0;git push origin master
+: 1415445498:0;git status
+: 1415445516:0;git commit .
+: 1415445529:0;git status
+: 1415445532:0;git log
+: 1415445539:0;git commit . -m ""
+: 1415445549:0;git commit . -m "Initial commit"
+: 1415445553:0;git push origin master
+: 1415445582:0;git push origin
+: 1415445607:0;git push origin master
+: 1415445670:0;git pull
+: 1415445678:0;ls
+: 1415445683:0;git push origin master
+: 1415445696:0;git fetch
+: 1415445708:0;git merge origin/master
+: 1415445753:0;ls
+: 1415445784:0;rm -rf .git
+: 1415445785:0;ls
+: 1415445808:0;cp .zsh.d ./github/dotfiles
+: 1415445818:0;ls github/dotfiles
+: 1415445826:0;cp -rp .zsh.d ./github/dotfiles
+: 1415445828:0;ls github/dotfiles
+: 1415445833:0;cd github
+: 1415445837:0;cd dotfiles
+: 1415445837:0;ls
+: 1415445848:0;git co
+: 1415445858:0;git status
+: 1415445871:0;git add .
+: 1415445878:0;git commit -m ""
+: 1415445883:0;git status
+: 1415445892:0;cd .zsh.d
+: 1415445894:0;ls
+: 1415445902:0;cat .gitignore
+: 1415445930:0;cd ..
+: 1415445932:0;ls
+: 1415445942:0;hidemaru .gitignore
+: 1415445969:0;git log
+: 1415445988:0;git status
+: 1415446002:0;git reset HEAD .zshrc
+: 1415446023:0;git status
+: 1415446044:0;git push
+: 1415446053:0;git push origin master
+: 1415446074:0;ls
+: 1415446079:0;cd .zsh.d
+: 1415446080:0;ls
+: 1415446089:0;cat zshrc
+: 1415446104:0;rm .gitignore
+: 1415446109:0;git status
+: 1415446141:0;cd github/dotfiles
+: 1415446142:0;ls
+: 1415446146:0;git status
+: 1415446168:0;git add .gitignore
+: 1415446179:0;git commit .
+: 1415446201:0;git commit . -m "deleted .gitignore"
+: 1415446209:0;git status
+: 1415446223:0;cd .zsh.d
+: 1415446231:0;git add .
+: 1415446238:0;git commit .
+: 1415446277:0;git status
+: 1415446286:0;ls
+: 1415446291:0;git rm .gitignore.swp
+: 1415446294:0;ls
+: 1415446299:0;git status
+: 1415446307:0;cd ..
+: 1415446310:0;git status
+: 1415446319:0;git add .zsh.d
+: 1415446324:0;git commit .zsh.d
+: 1415446335:0;git commit .zsh.d --amend
+: 1415446357:0;git status
+: 1415446365:0;git push
+: 1415446374:0;git push origin master
+: 1415446381:0;cd .zsh.d
+: 1415446394:0;hidemaru .gitignore
+: 1415446411:0;git status
+: 1415446421:0;git add .gitignore
+: 1415446425:0;git commit .gitignore
+: 1415446449:0;git status
+: 1415446458:0;git commit .
+: 1415446468:0;git commit . --amend
+: 1415446476:0;git status
+: 1415446480:0;cd
+: 1415446487:0;cd github/dotfiles
+: 1415446488:0;ls
+: 1415446492:0;git stasus
+: 1415446496:0;git status
+: 1415446501:0;cd .zsh.d
+: 1415446504:0;git status
+: 1415446508:0;cd ..
+: 1415446516:0;git add .zsh.d
+: 1415446521:0;git status
+: 1415446535:0;git commit . -amend
+: 1415446542:0;git status
+: 1415446548:0;git commit -amend
+: 1415446592:0;git add .
+: 1415446596:0;git status
+: 1415446610:0;git commit .zsh.d -m ""
+: 1415446617:0;git commit .zsh.d -m "amend"
+: 1415446621:0;git status
+: 1415446630:0;git push origin master
+: 1415446643:0;git pull
+: 1415446690:0;git push origin master
+: 1415446699:0;ls
+: 1415446741:0;git rm .gitignore
+: 1415446747:0;git status
+: 1415446757:0;git rm test.txt
+: 1415446766:0;git commit --amend
+: 1415446780:0;git push origin master
+: 1415446785:0;git pull
+: 1415446794:0;git push origin master
+: 1415446835:0;git config
+: 1415446838:0;git config -l
+: 1415446954:0;ls
+: 1415446960:0;cd .zsh.d
+: 1415446962:0;ls
+: 1415446972:0;git push origin master
+: 1415446987:0;git config -l
+: 1415447000:0;cd ..
+: 1415447001:0;git config -l
+: 1415447009:0;cd .zsh.d
+: 1415447023:0;hidemaru .git/config
+: 1415447052:0;git status
+: 1415447059:0;git config -l
+: 1415447063:0;git push origin master
+: 1415447107:0;git remote add origin git@github.com:slont/dotfiles/.zsh.d.git
+: 1415447114:0;git config -l
+: 1415447117:0;hidemaru .git/config
+: 1415447126:0;git push origin master
+: 1415447381:0;hidemaru .git/config
+: 1415447393:0;git push origin master
+: 1415447400:0;git status
+: 1415447405:0;git pull
+: 1415447417:0;ls
+: 1415447425:0;git commit .
+: 1415447431:0;cd ..
+: 1415447434:0;git status
+: 1415447482:0;git pull
+: 1415447490:0;git push origin master
+: 1415447504:0;cd .zsh.d
+: 1415447506:0;git push origin master
+: 1415447538:0;git push origin git@github.com:slont/dotfiles/.zsh.d
+: 1415447547:0;git push origin git@github.com:slont/dotfiles/.zsh.d.git
+: 1415447564:0;git push origin git://github.com/slont/dotfiles/.zsh.d.git
+: 1415447689:0;git push
+: 1415447729:0;cd ..
+: 1415447738:0;git rm -rf .zsh.d
+: 1415447741:0;ls
+: 1415447762:0;git rm -rf .zsh.d
+: 1415447766:0;cd .zsh.d
+: 1415447773:0;git rm *
+: 1415447775:0;ls
+: 1415447784:0;git rm .*
+: 1415447786:0;ls
+: 1415447793:0;git rm -rf .*
+: 1415447803:0;ls
+: 1415447811:0;git rm -rf .gitignore
+: 1415447814:0;git rm -rf .git
+: 1415447820:0;rm -rf .git
+: 1415447825:0;rm -rf .*
+: 1415447826:0;ls
+: 1415447828:0;cd ..
+: 1415447834:0;rm .zsh.d
+: 1415447838:0;rm -rf .zsh.d
+: 1415447839:0;ls
+: 1415447843:0;git status
+: 1415447848:0;git add .
+: 1415447852:0;git commit .
+: 1415447899:0;cd github/dotfiles
+: 1415447900:0;ls
+: 1415447909:0;git status
+: 1415447924:0;git commit .zsh.d -m "deleted"
+: 1415447927:0;git status
+: 1415447944:0;git commit .zsh.d
+: 1415447972:0;ls .zshrc
+: 1415447983:0;git status
+: 1415447994:0;git pull
+: 1415448005:0;git log
+: 1415448019:0;git commit .zsh.d
+: 1415448088:0;rm .git/index.lock
+: 1415448098:0;git commit .zsh.d -m "deleted"
+: 1415448103:0;git push
+: 1415448118:0;ls
+: 1415448146:0;git cp ~/.zsh.d ./.zsh.d
+: 1415448150:0;ls
+: 1415448162:0;git cp -rp ~/.zsh.d ./.zsh.d
+: 1415448167:0;ls
+: 1415448172:0;cp -rp ~/.zsh.d ./.zsh.d

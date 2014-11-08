@@ -2,7 +2,7 @@
 # history #
 ###########
 
-HISTFILE=$HOME/.zsh-history
+HISTFILE=~/.zsh.d/.zsh-history
 ## メモリに展開する履歴の数
 HISTSIZE=100000
 ## 保存する履歴の数
@@ -198,30 +198,3 @@ update_prompt()
 
 ## コマンド実行前に呼び出されるフック。
 precmd_functions=($precmd_functions update_prompt)
-
-
-# --------------------------------------
-# alias
-# --------------------------------------
-
-alias ls='ls -a'
-alias open='cygstart'
-
-
-
-# --------------------------------------
-# function
-# --------------------------------------
-
-## Google search from terminal
-ggr(){
-    cygstart "https://www.google.co.jp/search?q=${*// /+}"
-}
-
-## Google Calendar
-gcal(){
-    cygstart "https://www.google.com/calendar"
-}
-
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
