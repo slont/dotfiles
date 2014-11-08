@@ -76,6 +76,8 @@ gcal(){
     cygstart "https://www.google.com/calendar"
 }
 
+
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
+
 
