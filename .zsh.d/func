@@ -1,0 +1,14 @@
+## Google search from terminal
+ggr(){
+    cygstart "https://www.google.co.jp/search?q="$1
+}
+
+## Google Calendar
+gcal(){
+    cygstart "https://www.google.com/calendar"
+}
+
+## Gmail
+gmail(){
+    cygstart "https://mail.google.com/mail"
+}
