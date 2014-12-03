@@ -7,7 +7,7 @@ source ~/.zsh.d/zshrc
 
 alias cp='cp -rp'
 alias ls='ls -a'
-alias open='cygstart &'
+alias open='cygstart'
 alias rm='rm -rf'
 
 
@@ -24,6 +24,11 @@ ggr(){
 ## Google Calendar
 gcal(){
     cygstart "https://www.google.com/calendar"
+}
+
+## Gmail
+gmail(){
+    cygstart "https://mail.google.com/mail"
 }
 
 export PATH="$HOME/.rbenv/bin:$PATH"
