@@ -1,0 +1,17 @@
+: 1415443661:0;cd .zsh.d
+: 1415443665:0;git status
+: 1415443675:0;cat zshrc
+: 1415443682:0;ls
+: 1415443690:0;git add .
+: 1415443701:0;git status
+: 1415443710:0;git add .zsh-history
+: 1415443732:0;git rm .zsh-history
+: 1415443778:0;cd ..
+: 1415443787:0;ls
+: 1415443793:0;cat .zshrc
+: 1415443886:0;ls
+: 1415443890:0;cat .zshrc
+: 1415443900:0;cd .zsh.d
+: 1415443901:0;ls
+: 1415443905:0;git status
+: 1415443914:0;git add .zsh-history

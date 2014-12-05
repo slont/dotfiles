@@ -1,0 +1,13 @@
+# --------------------------------------
+# alias
+# --------------------------------------
+
+alias cp='cp -rp'
+alias ls='ls -a'
+alias rr='rm -rf'
+case "${OSTYPE}" in
+    cygwin*)
+        ;;
+    linux*)
+        ;;
+esac
