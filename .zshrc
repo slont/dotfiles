@@ -1,5 +1,6 @@
 source ~/.zsh.d/zshrc
 source ~/.zsh.d/func
+source ~/.zsh.d/keybind
 
 # --------------------------------------
 # alias
