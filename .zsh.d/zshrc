@@ -93,7 +93,10 @@ prompt_bar_left="-${prompt_bar_left_self}-${prompt_bar_left_status}-${prompt_bar
 ### プロンプトバーの右側
 ###   %{%B%F{red}%}...%{%f%b%}: 「...」の範囲を太字の赤文字にする。
 ###   %d: カレントディレクトリのフルパス（省略しない）
-prompt_bar_right="-[%{%B%}%{%F{red}%}%d%{%f%b%}]-"
+dir_name="%d"
+dir_name="${dir_name:s/EOF\n//}"
+#prompt_bar_right="-[%{%B%}%{%F{red}%}%d%{%f%b%}]-"
+prompt_bar_right="-[%{%B%}%{%F{red}%}${dir_name}%{%f%b%}]-"
 
 ### 2行目左にでるプロンプト。
 ###   %{%B%}%{%F{cyan}%}...%{%f%}: 「...」の範囲を太字のシアン色の文字にする。
