@@ -1,17 +1,682 @@
-: 1415443661:0;cd .zsh.d
-: 1415443665:0;git status
-: 1415443675:0;cat zshrc
-: 1415443682:0;ls
-: 1415443690:0;git add .
-: 1415443701:0;git status
-: 1415443710:0;git add .zsh-history
-: 1415443732:0;git rm .zsh-history
-: 1415443778:0;cd ..
-: 1415443787:0;ls
-: 1415443793:0;cat .zshrc
-: 1415443886:0;ls
-: 1415443890:0;cat .zshrc
-: 1415443900:0;cd .zsh.d
-: 1415443901:0;ls
-: 1415443905:0;git status
-: 1415443914:0;git add .zsh-history
+
+: 1415951622:0;cat .zsh.d/.zsh-history
+: 1415951814:0;gcal
+: 1415952615:0;ggr toeic
+: 1416118852:0;tw tl
+: 1416118945:0;tw „Ç∑„É££„É£Ø„É£ºÊµ¥„Å≥„Å¶Ê∫É∂ÂÇÉπ„ÅÉ∑„Å¶„ÇÉ®„ÅÉ∑ÂÉß∫ÊÉÆÉª„ÅÉ±„ÇÉ´„ÅÉ´„Å£„Å¶„Å™„Å£„Å¶Â§É∂ÂÉß∫„Åü„ÇÉ©ÂØÉ≤„ÅÉ´„Å£„Åü„ÅÉ∑„ÄÅ„ÅÉΩ„ÇÇ„ÅÉΩ„ÇÇÂÉß∫ÊÉÆÉª„ÅÉ±„ÇÉ´ÁÉ¥®‰∫É´ÁÉ§°„ÅÉ§„ÅÉ´„ÇÉ©ÊÉ®ª„Å£„Å¶„ÅÉ≠„Åü
+: 1416118994:0;tw -help
+: 1416120348:0;ls
+: 1416120375:0;cp .zshrc github/dotfiles/.zshrc
+: 1416120379:0;cd github/dotfiles
+: 1416120380:0;ls
+: 1416120388:0;git add .zshrc
+: 1416120396:0;git commit .zshrc
+: 1416120408:0;git status
+: 1416120418:0;git config -l
+: 1416120432:0;ls
+: 1416120436:0;cd .zsh.d
+: 1416120438:0;git config -l
+: 1416120444:0;cd ..
+: 1416120445:0;ls
+: 1416120471:0;git log
+: 1416120488:0;git commit .zshrc
+: 1416120516:0;git config --global user.email "renma.da@gmail.com"
+: 1416120548:0;git config --global user.name "slont"
+: 1416120551:0;git commit .zshrc
+: 1416120599:0;git push origin master
+: 1416120611:0;git status
+: 1416120614:0;git log
+: 1416120640:0;ggr zsh Ë®≠ÂÆÉ∫
+: 1416120757:0;bindkey
+: 1416121092:0;git status -sb
+: 1416121098:0;git status
+: 1416121293:0;bindkey | grep kill
+: 1416121503:0;cd
+: 1416121504:0;ls
+: 1416121524:0;apt-cyg update
+: 1416121536:0;apt-cyg install emacs
+: 1416121680:0;emacs .zshrc&
+: 1416121683:0;fg
+: 1416121917:0;kill 7164
+: 1416121923:0;jobs
+: 1416121925:0;fg
+: 1416121934:0;ls
+: 1416121937:0;jobs
+: 1416121945:0;cat .zshrc
+: 1416121949:0;ls
+: 1416121956:0;rm .zshrc\~
+: 1416121960:0;ls
+: 1416121977:0;vmplayer&
+: 1416122120:0;nhm&
+: 1416122827:0;ls
+: 1416122832:0;cat .zsh.d/zshrc
+: 1416123667:0;hidemaru .zsh.d/zshrc
+: 1416124319:0;source .zshrc
+: 1416125649:0;ls
+: 1416125663:0;cd .emacs.d/
+: 1416125664:0;ls
+: 1416125682:0;hidemaru .init.el &
+: 1416125704:0;source .init.el
+: 1416125724:0;emacs
+: 1416125793:0;kill %1
+: 1416125814:0;emacs test.txt
+: 1416125836:0;kill %1
+: 1416126023:0;line &
+: 1416126028:0;janetter &
+: 1416142451:0;gmail
+: 1416142983:0;janetter &
+: 1416146316:0;pstudy&
+: 1416149643:0;janetter &
+: 1416211096:0;line &
+: 1416212120:0;gmail
+: 1416215301:0;line &
+: 1416295274:0;cd ../Documents/Â§ßÂ≠¶/sweep
+: 1416295277:0;ls
+: 1416295309:0;cd
+: 1416297218:0;line &
+: 1416366818:0;cd github
+: 1416366832:0;cat bgttbfny
+: 1416366858:0;cd
+: 1416366950:0;ggr „Å™„Åµ„ÅÅÔΩÉ≥ÔΩÉ¶ÔΩÉ≥„ÅÉÄ
+: 1416405383:0;line &
+: 1416405883:0;gcal
+: 1416465653:0;ls
+: 1416465675:0;cd java/simplex/jibun
+: 1416465676:0;ls
+: 1416465683:0;cd java/summer/util
+: 1416465684:0;ls
+: 1416465690:0;cd stage03/03/stage01
+: 1416465690:0;ls
+: 1416465703:0;hidemaru Portfolio.java&
+: 1416465838:0;hidemaru Issue.java&
+: 1416468592:0;janetter &
+: 1416469716:0;pstudy &
+: 1416473616:0;vmplayer&
+: 1416474436:0;apt-cyg install xinetd
+: 1416474656:0;vmplayer&
+: 1416477408:0;ssh ctfq.sweetduet.info:10022
+: 1416477432:0;ssh -p 10022 ctfq.sweetduet.info
+: 1416477514:0;kill %1
+: 1416477556:0;ssh -l q13 -p 10022 ctfq.sweetduet.info
+: 1416497327:0;ls
+: 1416497375:0;cd java/simplex/jibun/java/summer/util
+: 1416497376:0;ls
+: 1416497386:0;cd stage03/03/stage01
+: 1416497387:0;ls
+: 1416497397:0;hidemaru P
+: 1416497410:0;hidemaru Portfolio.java &
+: 1416497432:0;hidemaru Position.java &
+: 1416497503:0;cd ../..\\
+
+: 1416497508:0;pwd
+: 1416497512:0;cd ../../../
+: 1416497513:0;ls
+: 1416497526:0;cd summer/stage11/08
+: 1416497527:0;ls
+: 1416497531:0;cd test11
+: 1416497534:0;ls
+: 1416497543:0;cat Portfolio.java
+: 1416497803:0;ls
+: 1416497816:0;cd ../../../util
+: 1416497817:0;ls
+: 1416497822:0;cd stage03/03/stage01
+: 1416497823:0;ls
+: 1416497841:0;cat PortfolioLoader.java
+: 1416499918:0;cd
+: 1416499926:0;ls
+: 1416499969:0;ggr grtgaegrc
+: 1416499985:0;gcal
+: 1416499999:0;ls
+: 1416500018:0;jobs
+: 1416500036:0;kill %1
+: 1416500044:0;kill %2
+: 1416500084:0;ls
+: 1416500089:0;ipconfig
+: 1416500106:0;ls
+: 1416500114:0;cat .zshrc
+: 1416500125:0;cat gjfdaoigea
+: 1416500139:0;cat .zshrc
+: 1416500149:0;cat .zsh.d/.zsh-history
+: 1416500165:0;cat .zsh.d/zshrc
+: 1416500234:0;cat /etc/passwd
+: 1416500290:0;hidemaru .zshrc
+: 1416500356:0;cat .zsh.d/zshrc
+: 1416500379:0;cd github
+: 1416500426:0;;d
+: 1416500427:0;ls
+: 1416500461:0;ls /usr/bin
+: 1416500504:0;/bin
+: 1416500508:0;ls /bin
+: 1416500544:0;cd
+: 1416500544:0;ls
+: 1416500554:0;cat .zshrc
+: 1416500569:0;cat .zshrc | grep gcal
+: 1416500593:0;gmail
+: 1416500904:0;ssh -l q13 -p 10022 ctfq.sweetduet.info
+: 1416564638:0;line &
+: 1416564705:0;janetter &
+: 1416568825:0;gcal
+: 1416611751:0;pstudy&
+: 1416814913:0;line &
+: 1416835942:0;gcal
+: 1416980130:0;gmail
+: 1416981669:0;line &
+: 1416982532:0;tw ÊÉ∂≠Ê∞¥„ÅÆ„Åü„ÇÅ„Å´Ê∞¥ÈÅÉ≥„É£ª„É£É®„Ç§„É£¨‰ΩøÁÉ¥®„ÅØ‰∏ÄÂÉØ∑È§®„Åß„Å£„Å¶ÂÉ∏É∏„ÇÉ§„ÇÉ≠ÔΩÉ∑ÔΩÉ∑„ÇÅ„ÇÉ≥„Å©„ÅÉØ„ÅÉª„É£ºÔΩÉ∑ÔΩÉ∑ÔΩÉ∑
+: 1417061438:0;jobs
+: 1417061448:0;kill %1
+: 1417061473:0;ipconfig
+: 1417070374:0;hidemaru
+: 1417077253:0;gmail
+: 1417077257:0;gcal
+: 1417077925:0;line &
+: 1417077935:0;vmplayer&
+: 1417077967:0;nhm&
+: 1417079799:0;cat .zshrc
+: 1417080741:0;nhm &
+: 1417080760:0;jobs
+: 1417427408:0;line &
+: 1417428540:0;cd ../FreeSpace/link
+: 1417428541:0;ls
+: 1417428618:0;ln -s ../gnuplot/bin/gnuplot.exe ./gnuplot
+: 1417428632:0;gnuplot
+: 1417434195:0;ln -s ../WinShot/WinShot.exe ./winshot
+: 1417434206:0;winshot
+: 1417434217:0;winshot &
+: 1417435418:0;ggr seccon
+: 1417436721:0;pstudy&
+: 1417441022:0;line &
+: 1417496821:0;pwd
+: 1417496823:0;cd
+: 1417496825:0;pwd
+: 1417496827:0;ls
+: 1417496851:0;line &
+: 1417497053:0;cd ../FreeSpace/link
+: 1417497055:0;ls -l
+: 1417497057:0;ls
+: 1417497076:0;ls -l
+: 1417497186:0;ln -s /cygdrive/d/Users/Renma/FreeSpace/WinShot/WinShot.exe ./winshot
+: 1417497197:0;rm winshot
+: 1417497198:0;ln -s /cygdrive/d/Users/Renma/FreeSpace/WinShot/WinShot.exe ./winshot
+: 1417497201:0;ls -l
+: 1417497213:0;rm gnuplot
+: 1417497230:0;ln -s /cygdrive/d/Users/Renma/FreeSpace/gnuplot/bin/gnuplot.exe ./gnuplot
+: 1417497249:0;rm procexp
+: 1417497282:0;ln -s /cygdrive/d/Users/Renma/FreeSpace/ProcessExplorer/ProcExp.exe ./procexp
+: 1417497286:0;ls -l
+: 1417497299:0;rm nhm
+: 1417497319:0;ln -s /cygdrive/d/Users/Renma/FreeSpace/NHM64ZM5P/NHM.EXE ./nhm
+: 1417497339:0;rm hidemaru
+: 1417497425:0;ln -s "/cygdrive/c/Program Files/Hidemaru/Hidemaru.exe" ./hdmr
+: 1417497427:0;ls -l
+: 1417497593:0;cd ../FreeSpace/link
+: 1417497595:0;ls -l
+: 1417497688:0;cd
+: 1417497691:0;cd github
+: 1417497693:0;ls
+: 1417497701:0;gi config -l
+: 1417497706:0;git config -l
+: 1417497710:0;cd dotfiles
+: 1417497711:0;git config -l
+: 1417498034:0;line
+: 1417500765:0;vmp
+: 1417500767:0;ls
+: 1417500772:0;cd ../FreeSpace/link
+: 1417500773:0;ls
+: 1417500776:0;ls -l
+: 1417500813:0;vmplayer&
+: 1417500856:0;nhm&
+: 1417504756:0;hdmr &
+: 1417507139:0;gnuplot
+: 1417507474:0;winshot &
+: 1417509689:0;line &
+: 1417514029:0;hdmr &
+: 1417514230:0;gcal
+: 1417539635:0;cat fasdaa
+: 1417539640:0;ls
+: 1417539655:0;cd github
+: 1417539671:0;pwd
+: 1417539722:0;cat ./.zsh.d/zshrc
+: 1417539729:0;cd
+: 1417539731:0;cat ./.zsh.d/zshrc
+: 1417539746:0;more ./.zsh.d/zshrc
+: 1417539782:0;ls
+: 1417539816:0;gcal
+: 1417539829:0;gmail
+: 1417539853:0;ggr „ÅÉ¥È£Ø
+: 1417539869:0;cat .zshrc
+: 1417539926:0;gmail
+: 1417540075:0;hdmr &
+: 1417540291:0;line &
+: 1417540305:0;pstudy&
+: 1417540409:0;hdmr &
+: 1417540757:0;hdmr
+: 1417606125:0;fiddler&
+: 1417607909:0;cd github
+: 1417607910:0;ls
+: 1417607921:0;cat dotfiles/.zshrc
+: 1417607959:0;cd dotfiles
+: 1417607960:0;ls
+: 1417607963:0;cd .zsh.d
+: 1417607964:0;ls
+: 1417607983:0;gvim func
+: 1417608012:0;ls
+: 1417608069:0;cd
+: 1417608070:0;ls
+: 1417608078:0;cat .zshrc
+: 1417608112:0;cp .zshrc ./github/dotfiles/.zshrc
+: 1417608118:0;cd github/dotfiles
+: 1417608119:0;ls
+: 1417608125:0;git status
+: 1417608134:0;git add .
+: 1417608138:0;git status
+: 1417608150:0;git commit . -m ""
+: 1417608166:0;git commit . -m "modified"
+: 1417608178:0;ls
+: 1417608187:0;hdmr .zshrc&
+: 1417608206:0;git hdmr .zshrc&
+: 1417608212:0;git status
+: 1417608223:0;hdmr .zshrc&
+: 1417608232:0;ls -l
+: 1417608248:0;hdmr .zshrc&
+: 1417608263:0;cd .zsh.d
+: 1417608268:0;hdmr func
+: 1417608294:0;cd ../
+: 1417608294:0;ls
+: 1417608301:0;hdmr .zshrc
+: 1417608340:0;sudo hdmr .zshrc
+: 1417608365:0;cd
+: 1417608370:0;ls
+: 1417608371:0;ls -l
+: 1417608379:0;hdmr .zshrc
+: 1417608397:0;cp .zshrc ./github/dotfiles/.zshrc
+: 1417608418:0;cd github/dotfiles
+: 1417608422:0;du
+: 1417608427:0;su
+: 1417608433:0;su root
+: 1417608573:0;cd
+: 1417608575:0;cp .zshrc ./github/dotfiles/.zshrc
+: 1417608592:0;hdmr .zshrc
+: 1417608611:0;cp .zshrc ./github/dotfiles/.zshrc
+: 1417608618:0;cd github/dotfiles
+: 1417608620:0;ls
+: 1417608628:0;git status
+: 1417608631:0;git add .
+: 1417608644:0;git commit -m "modified"
+: 1417608667:0;pwd
+: 1417608691:0;ls
+: 1417608695:0;cd .zsh.d
+: 1417608696:0;ls
+: 1417608718:0;cp ../github/dotfiles/.zsh.d/func ./func
+: 1417608909:0;apt-cyg install php
+: 1417609070:0;ssh --help
+: 1417609180:0;ssh -i q13 -p 10022 ctfq.sweetduet.info
+: 1417609209:0;ssh --help
+: 1417609226:0;ssh -W q13:10022 ctfq.sweetduet.info
+: 1417609285:0;ssh -W ctfq.sweetduet.info:10022
+: 1417609311:0;ssh -W ctfq.sweetduet.info:10022 q13
+: 1417609336:0;ssh -p 10022 ctfq.sweetduet.info
+: 1417609387:0;ssh -l q13 -p 10022 ctfq.sweetduet.info
+: 1417609469:0;gcal
+: 1417610230:0;explorer.exe
+: 1417610307:0;cd ../FreeSpace/link
+: 1417610308:0;ls
+: 1417610350:0;ln -s "C:\Program Files\Internet Explorer\iexplore.exe" ./iexplore
+: 1417610354:0;ls -l
+: 1417610404:0;ln -s "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" ./firefox
+: 1417611184:0;line &
+: 1417611196:0;jobs
+: 1417611396:0;hdmr &
+: 1417612221:0;hdmr mikaka.py &
+: 1417613134:0;ls
+: 1417613142:0;python mikaka.py
+: 1417613544:0;python mikaka.py 53453
+: 1417613625:0;python mikaka.py
+: 1417613692:0;rm mikaka.py
+: 1417613870:0;fiddler &
+: 1417614301:0;hdmr &
+: 1417615696:0;ls
+: 1417615717:0;hdmr md5.py &
+: 1417615773:0;python md5.py
+: 1417616283:0;hdmr md5.py &
+: 1417616310:0;python md5.py
+: 1417616362:0;hdmr md5.py &
+: 1417616436:0;python md5.py
+: 1417616542:0;jobs
+: 1417616547:0;fiddler &
+: 1417616704:0;python md5.py
+: 1417617497:0;fiddler &
+: 1417617536:0;python md5.py
+: 1417619694:0;line &
+: 1417623738:0;cd java/LotusToolKit/src/lotus/stringtoolkit/cipher
+: 1417623739:0;ls
+: 1417623750:0;rm .svn
+: 1417623756:0;hdmr ADFGVXCrypt.java&
+: 1417624506:0;hdmr &
+: 1417627782:0;fiddler &
+: 1417665666:0;gcal
+: 1417667514:0;ls
+: 1417667517:0;cd
+: 1417667518:0;ls
+: 1417667525:0;cat md5.pyc
+: 1417667550:0;md5sum --help
+: 1417667643:0;cd ../Documents/Â§ßÂ≠¶/documents
+: 1417667644:0;ls
+: 1417667670:0;hdmr RSSI Preference.txt &
+: 1417667682:0;ggr preference
+: 1417668551:0;gcal
+: 1417669951:0;winshot&
+: 1417671307:0;gnuplot
+: 1417671315:0;cd
+: 1417671324:0;cd gnu/
+: 1417671325:0;sl
+: 1417671326:0;ls
+: 1417671332:0;gnuplot
+: 1417678467:0;cd gnu/
+: 1417678475:0;gnuplot
+: 1417681451:0;line &
+: 1417684914:0;wireshark&
+: 1417685410:0;hdmr &
+: 1417686524:0;fiddler &
+: 1417694445:0;cd
+: 1417694459:0;cd ../Documents/CTFPractice/8946/take49
+: 1417694460:0;ls
+: 1417694469:0;hdmr take49.php &
+: 1417694822:0;php take49.php
+: 1417694950:0;cd ../
+: 1417694951:0;ls
+: 1417694956:0;mkdir take25
+: 1417694959:0;cd take25
+: 1417694979:0;hdmr take25.php &
+: 1417695214:0;php take25.php
+: 1417695817:0;hdmr ../take49/take49.php&
+: 1417695879:0;php take25.php
+: 1417696410:0;cd ../FreeSpace/link
+: 1417696426:0;ln -s ../odbg200k/ollydbg.exe ./odbg
+: 1417696458:0;ls
+: 1417696473:0;odbg&
+: 1417696484:0;sudo odbg
+: 1417696551:0;ls ../FreeSpace/odbg200k/
+: 1417696558:0;ls -l ../FreeSpace/odbg200k/
+: 1417696588:0;ls -l ../FreeSpace/gnuplot/bin/
+: 1417696613:0;rm ../FreeSpace/link/odbg
+: 1417696874:0;ln -s /cygdrive/c/Program\ Files\ \(x86\)/IDA\ Free/idag.exe ../FreeSpace/link/idag
+: 1417696888:0;ls -l ../FreeSpace/link
+: 1417696912:0;idag&
+: 1417697257:0;idag
+: 1417697274:0;rm ../FreeSpace/link/idag
+: 1417700317:0;hdmr &
+: 1417701481:0;fiddler &
+: 1417702496:0;ls
+: 1417702531:0;ln -s ../FreeSpace/UsaMimi_v018/UsaMimi64.exe ../FreeSpace/link/usamimi
+: 1417703480:0;cd ../Documents/CTFPractice/8946
+: 1417703488:0;mkdir take56
+: 1417703492:0;cd take56
+: 1417703501:0;hdmr take56.txt &
+: 1417706571:0;fiddler &
+: 1417752699:0;ggr „É£≠„É£É∞„Çπ„É£É®ÊÉÆ®ÂÆÉ∫
+: 1417754108:0;hdmr &
+: 1417761317:0;pstudy&
+: 1417768065:0;line &
+: 1417768803:0;nhm&
+: 1417768881:0;hdmr &
+: 1417769224:0;python
+: 1417769320:0;ls
+: 1417769324:0;cd
+: 1417769324:0;ls
+: 1417769333:0;cd .zsh.d
+: 1417769334:0;ls
+: 1417769341:0;hdmr zshrc&
+: 1417769361:0;cd..
+: 1417769362:0;cd ..
+: 1417769363:0;ls
+: 1417769370:0;cat .zshrc
+: 1417769383:0;cd github/dotfiles
+: 1417769384:0;ls
+: 1417769403:0;hdmr .zsh.d/keybind &
+: 1417769461:0;hdmr .zshrc
+: 1417769482:0;git add .
+: 1417769501:0;git commit -m "add keybind"
+: 1417769527:0;cp .zshrc ~/.zshrc
+: 1417769546:0;cp .zsh.d/keybind ~/.zsh.d/keybind
+: 1417769610:0;cd
+: 1417769611:0;lls
+: 1417769612:0;ls
+: 1417769621:0;hdmr .zsh.d/keybind
+: 1417769666:0;ls -l
+: 1417769715:0;chmod +d .zshrc
+: 1417769857:0;hdmr .zsh.d/keybind
+: 1417769881:0;hdmr .zshrc
+: 1417769891:0;ls -l
+: 1417769908:0;chmod
+: 1417769921:0;chmod 700 .zsh.d
+: 1417769924:0;ls -l
+: 1417769930:0;hdmr .zsh.d/keybind
+: 1417769936:0;cd .zsh.d
+: 1417769937:0;ls -l
+: 1417769962:0;chmod 700 *
+: 1417769963:0;ls -l
+: 1417769968:0;cd
+: 1417769971:0;hdmr .zsh.d/keybind
+: 1417770132:0;type find
+: 1417770615:0;cat .zsh.d/zshrc
+: 1417770914:0;hdmr .zsh.d/keybind
+: 1417771047:0;hdmr .zsh.d/keybind&
+: 1417771156:0;‰ª•‰∏É´„ÄÅ„Çª„É£≥„Çµ„É£ÉÆ„É£º„É£É©„ÅÆ‰ΩÉ≠ÁΩÆ„ÅØÂÉª∫ÂÆÉ∫
+: 1417771999:0;cp .zsh.d/keybind github/dotfiles/.zsh.d/keybind
+: 1417772003:0;cd github/dotfiles
+: 1417772007:0;git add /
+: 1417772009:0;git add .
+: 1417772026:0;git commit -m "modified keybind"
+: 1417772038:0;cd
+: 1417772123:0;bindkey -l
+: 1417772135:0;bindkey -L
+: 1417772472:0;hdmr .zshrc&
+: 1417772503:0;echo $OSTYPE
+: 1417772517:0;hdmr .zshrc&
+: 1417772577:0;hdmr .zsh.d/alias &
+: 1417772965:0;hdmr .zsh.d/func&
+: 1417773128:0;cp .zsh.d github/dotfiles/.zsh.d
+: 1417773142:0;cp .zshrc github/dotfiles/.zshrc
+: 1417773146:0;cd github/dotfiles
+: 1417773149:0;git add .
+: 1417773165:0;git commit -m "add alias"
+: 1417773168:0;cd
+: 1417773194:0;cd github/dotfiles
+: 1417773234:0;git push origin master
+: 1417773289:0;ls
+: 1417773294:0;cd .zsh.d
+: 1417773295:0;ls
+: 1417773300:0;cd .zsh.d
+: 1417773301:0;ls
+: 1417773322:0;cd
+: 1417773323:0;ls
+: 1417773326:0;cd .zsh.d
+: 1417773327:0;ls
+: 1417773331:0;cd
+: 1417773349:0;cp .zsh.d github/dotfiles/
+: 1417773354:0;cd github/dotfiles
+: 1417773355:0;ls
+: 1417773360:0;ls .zsh.d
+: 1417773367:0;git add .
+: 1417773411:0;git commit -m "modified .zsh.d"
+: 1417773421:0;git push origin master
+: 1417773438:0;ls
+: 1417773441:0;cd .zsh.d
+: 1417773442:0;ls
+: 1417773449:0;cat alias
+: 1417773457:0;cat ../.zshrc
+: 1417773476:0;git rm -rf .zsh.d
+: 1417773483:0;ls -l
+: 1417773491:0;rm .zsh.d
+: 1417773493:0;ls
+: 1417773502:0;git status
+: 1417773512:0;ls
+: 1417773517:0;git add .
+: 1417773528:0;ls -l
+: 1417773584:0;chmod 700 .*
+: 1417773586:0;ls -l
+: 1417773589:0;git add .
+: 1417773604:0;git status
+: 1417773640:0;git add alias func keybind
+: 1417773655:0;ls
+: 1417773662:0;git reset
+: 1417773666:0;git status
+: 1417773674:0;ls
+: 1417773681:0;git add .
+: 1417773683:0;ls -l
+: 1417773689:0;git status
+: 1417773700:0;git checkout -- .
+: 1417773703:0;git status
+: 1417773712:0;ls -l
+: 1417773730:0;git checkout -- .
+: 1417773733:0;git status
+: 1417773742:0;git add .
+: 1417773752:0;cat alias
+: 1417773761:0;git status
+: 1417773772:0;git add .
+: 1417773808:0;ls -l
+: 1417773817:0;cd .git
+: 1417773819:0;ls -l
+: 1417773837:0;chmod 700 *
+: 1417773840:0;cd ..
+: 1417773844:0;git add .
+: 1417773875:0;git commit -m "modified"
+: 1417773917:0;chmod 700 .git/refs/heads/*
+: 1417773918:0;git commit -m "modified"
+: 1417773932:0;ls .git/refs/heads/
+: 1417773936:0;ls -l .git/refs/heads/
+: 1417773959:0;chmod 700 .git/refs/heads/master
+: 1417773961:0;git commit -m "modified"
+: 1417773983:0;chmod 700 .git/refs/heads/master.lock
+: 1417773993:0;git status
+: 1417774006:0;git commit . -m "modified"
+: 1417774056:0;git init --shared=0777 -bare
+: 1417774064:0;git init --shared=0777 --bare
+: 1417774069:0;git commit . -m "modified"
+: 1417774114:0;chmod 777 .git/objects
+: 1417774116:0;git commit . -m "modified"
+: 1417774150:0;git config -l
+: 1417774159:0;ls
+: 1417774196:0;git log
+: 1417774205:0;cd ../
+: 1417774207:0;git log
+: 1417774245:0;git reset --hard 490bb11e36d61b0e5b596d7a2de3a1ed8f384c58
+: 1417774248:0;ls
+: 1417774253:0;ls .zsh
+: 1417774257:0;ls .zsh.d
+: 1417774268:0;cd .zsh.d
+: 1417774279:0;rm .zsh.d
+: 1417774288:0;cat keybind
+: 1417774314:0;cp ~/.zsh.d/alias ./alias
+: 1417774317:0;ls
+: 1417774319:0;cd ./
+: 1417774323:0;cd ../
+: 1417774324:0;ls
+: 1417774329:0;cat .zshrc
+: 1417774335:0;git status
+: 1417774339:0;git add .
+: 1417774377:0;git commit -m "added alias and deleted .zsh.d/.zsh.d"
+: 1417774390:0;git status
+: 1417774397:0;git push origin master
+: 1417774431:0;git config -l
+: 1417774464:0;git pull
+: 1417774485:0;git push origin master
+: 1417774544:0;ls
+: 1417774550:0;cd .zsh.d
+: 1417774552:0;ls
+: 1417774569:0;rm .gitignore
+: 1417774580:0;git log
+: 1417774586:0;cd ../
+: 1417774587:0;git log
+: 1417774605:0;git reset
+: 1417774613:0;cd .zsh.d
+: 1417774614:0;ls
+: 1417774622:0;git status
+: 1417774637:0;git reset --hard 04e21b0e058d34e0daf5118b8fbfc2b27e9d2f08
+: 1417774666:0;git log
+: 1417774675:0;cd ../
+: 1417774677:0;git log
+: 1417774683:0;git reset --hard 04e21b0e058d34e0daf5118b8fbfc2b27e9d2f08
+: 1417774691:0;ls .zsh.d
+: 1417774702:0;cat .zsh.d/.gitignore
+: 1417774711:0;cd .zsh.d/
+: 1417774713:0;ls
+: 1417774723:0;cat .gitignore.swp
+: 1417774735:0;rm .gitignore.swp
+: 1417774743:0;rm .zshrc.swp
+: 1417774749:0;rm hooks
+: 1417774752:0;rm description
+: 1417774766:0;rm refs
+: 1417774777:0;rm .git
+: 1417774779:0;ls
+: 1417774786:0;rm info
+: 1417774789:0;rm objects
+: 1417774795:0;rm config
+: 1417774796:0;ls
+: 1417774802:0;rm HEAD
+: 1417774803:0;ls
+: 1417774806:0;cd ../
+: 1417774812:0;git add .
+: 1417774830:0;git commit -m "deleted some"
+: 1417774842:0;git push origin master
+: 1417774888:0;cd
+: 1417774889:0;ls
+: 1417774898:0;ls .zsh.d
+: 1417774905:0;cd .zsh.d
+: 1417774910:0;rm .gitignore.swp
+: 1417774920:0;rm .git
+: 1417774924:0;rm .gitignore
+: 1417774935:0;rm .zshrc.swp
+: 1417774938:0;ls
+: 1417774942:0;cd ../
+: 1417774944:0;ls
+: 1417774969:0;rm \#test.txt\#
+: 1417774970:0;ls
+: 1417774991:0;cat .gitconfig
+: 1417774996:0;git status
+: 1417775004:0;rm .gitconfig
+: 1417775005:0;ls
+: 1417775008:0;cd github
+: 1417775009:0;ls
+: 1417775026:0;git config -l
+: 1417775040:0;cd dotfiles
+: 1417775042:0;git config -l
+: 1417775083:0;line &
+: 1417775171:0;python
+: 1417776012:0;ssh --help
+: 1417776229:0;nslookup --help
+: 1417776251:0;man nslookup
+: 1417777212:0;bash
+: 1417777457:0;cd
+: 1417777465:0;hdmr .zsh.d/keybind
+: 1417780038:0;pstudy&
+: 1417783975:0;line &
+: 1417796035:0;ls
+: 1417796077:0;ln -s ../FreeSpace/steghide/steghide.exe ../FreeSpace/link/steghide
+: 1417796283:0;steghide extract -sf ../Documents/CTFPractice/8946/take29/take29_wh.png
+: 1417796294:0;steghide ../Documents/CTFPractice/8946/take29/take29_wh.png
+: 1417796297:0;steghide
+: 1417796304:0;steghide --help
+: 1417796328:0;cd ../FreeSpace/steghide
+: 1417796350:0;steghide extract -sf ../../Documents/CTFPractice/8946/take29/take29_wh.png
+: 1417796365:0;rm ~/../FreeSpace/link/steghide
+: 1417796367:0;steghide extract -sf ../../Documents/CTFPractice/8946/take29/take29_wh.png
+: 1417796374:0;./steghide extract -sf ../../Documents/CTFPractice/8946/take29/take29_wh.png
+: 1417800302:0;cd
+: 1417800309:0;hdmr .zshrc
+: 1417800438:0;hdmr .zsh.d/alias
+: 1417800476:0;hdmr .zsh.d/func
+: 1417800491:0;hdmr .zsh.d/keybind
+: 1417800508:0;hdmr .zsh.d/zshrc
+: 1417800522:0;hdmr .zsh.d/keybind
+: 1417800543:0;hdmr .zsh.d/func
+: 1417800555:0;hdmr .zsh.d/alias
+: 1417800567:0;hdmr .zshrc
+: 1417800612:0;cd .zsh.d
+: 1417800624:0;mv alias zshalias
+: 1417800626:0;ls
+: 1417800638:0;mv keybind zshkeybind
+: 1417800649:0;mv func zshfunc
+: 1417800656:0;cd
+: 1417800656:0;ls
+: 1417800681:0;cp .zsh.d github/dotfiles

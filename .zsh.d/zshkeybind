@@ -1,0 +1,6 @@
+### delete key
+bindkey "^[[3~" delete-char
+### HOME key
+bindkey "^[[1~" beginning-of-line
+### END key
+bindkey "^[[4~" end-of-line
